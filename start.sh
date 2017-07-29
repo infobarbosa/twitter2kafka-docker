@@ -17,4 +17,4 @@
 
 #################################################################################
 
-java -jar /opt/twitter2kafka/twitter2kafka-1.0-SNAPSHOT.jar $TWITTER_HASHTAG
+java -jar /opt/twitter2kafka/twitter2kafka-1.0-SNAPSHOT.jar
